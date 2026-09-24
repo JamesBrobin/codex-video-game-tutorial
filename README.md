@@ -1,4 +1,4 @@
-# codex-video-game-tutorial
+# Codex Video Game Tutorial
 A step-by-step tutorial for a general audience on how to use Codex to make a video game.
 
 File can be accessed online here:
